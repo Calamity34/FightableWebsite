@@ -1,0 +1,15 @@
+a {
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-image: url("../images/bg2.png");
+    background-attachment: fixed;
+    background-size: 200px;
+}
+
+.line {
+    color: white;
+}
